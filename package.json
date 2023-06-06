@@ -1,0 +1,22 @@
+{
+  "name": "color-tone-detector",
+  "version": "1.0.0",
+  "description": "Color Tone Detector: Lightweight npm package to determine if a color (HEX, RGB, HSL) is dark or light. Easy integration, optimal performance. Ideal for UI design, accessibility, conditional styling. Install: npm install color-tone-detector. Contributions welcome. License: MIT.",
+  "main": "'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p4nduxcv/color-tone-detector.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "pandula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p4nduxcv/color-tone-detector/issues"
+  },
+  "homepage": "https://github.com/p4nduxcv/color-tone-detector#readme"
+}
